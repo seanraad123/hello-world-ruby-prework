@@ -1,4 +1,4 @@
-s# Hello World
+# Hello World
 
 ## Overview
 
